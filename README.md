@@ -27,7 +27,7 @@ Titanic-Survival-Prediction/ │── data/ # Directory for dataset │── m
 
 ## 📊 Dataset
 The dataset includes:  
-- **Categorical Features**: Sex, Embarked, Ticket  
+- **Categorical Features**: Sex, Embarked, Ticket, Surname
 - **Numerical Features**: Age, Fare, Pclass  
 - **Target Variable**: Survived (0 = No, 1 = Yes)  
 
